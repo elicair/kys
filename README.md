@@ -48,8 +48,8 @@
     <h2></h2>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVKIfjuuicGUFmAjpJ8HgmemeuuMXqrPSYrg&s" alt="leather">
 
-    <!-- Table Section -->
-    <h2>our prices</h2>
+    
+    <h2>Our prices</h2>
     <table>
         <thead>
             <tr>
@@ -78,7 +78,7 @@
     </table>
 
  
-    <a href="https://elicair.github.io/expir/" class="home-button">Go to Home Page</a>
+    <a href=" https://elicair.github.io/leather/" class="home-button">Go to Home Page</a>
 
 </body>
 </html>
