@@ -46,41 +46,39 @@
 
     <!-- Image Section -->
     <h2>Our Image</h2>
-    <!-- Replace 'path/to/your/image.jpg' with the actual path to your image file -->
-    <img src="path/to/your/image.jpg" alt="A sample image">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVKIfjuuicGUFmAjpJ8HgmemeuuMXqrPSYrg&s" alt="leather">
 
     <!-- Table Section -->
     <h2>Data Table</h2>
     <table>
         <thead>
             <tr>
-                <th>Header 1</th>
-                <th>Header 2</th>
-                <th>Header 3</th>
+                <th>cost per foot</th>
+                <th>cost per yrd</th>
+                <th>cost per hide</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>Row 1, Cell 1</td>
-                <td>Row 1, Cell 2</td>
-                <td>Row 1, Cell 3</td>
+                <td>1ft, x 10$</td>
+                <td>2ft, x 9$</td>
+                <td>3ft, x 7$</td>
             </tr>
             <tr>
-                <td>Row 2, Cell 1</td>
-                <td>Row 2, Cell 2</td>
-                <td>Row 2, Cell 3</td>
+                <td>1yrd, x 10S</td>
+                <td>2yrd, x 9$</td>
+                <td>3yrd, x 7$</td>
             </tr>
             <tr>
-                <td>Row 3, Cell 1</td>
-                <td>Row 3, Cell 2</td>
-                <td>Row 3, Cell 3</td>
+                <td>1 hide, x 10$</td>
+                <td>2 hide, x 9$</td>
+                <td>3 hide, x 7$</td>
             </tr>
         </tbody>
     </table>
 
-    <!-- Redirect Button Section -->
-    <!-- The anchor tag acts as a link. The class is for styling as a button. -->
-    <a href="README.md" class="home-button">Go to Home Page</a>
+ 
+    <a href="https://elicair.github.io/expir/" class="home-button">Go to Home Page</a>
 
 </body>
 </html>
