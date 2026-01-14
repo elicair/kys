@@ -1,4 +1,4 @@
-# kys
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -42,14 +42,14 @@
 </head>
 <body>
 
-    <h1>Welcome to the Sample Page</h1>
+    <h1>Welcome to leather works.</h1>
 
     <!-- Image Section -->
-    <h2>Our Image</h2>
+    <h2></h2>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVKIfjuuicGUFmAjpJ8HgmemeuuMXqrPSYrg&s" alt="leather">
 
     <!-- Table Section -->
-    <h2>Data Table</h2>
+    <h2>our prices</h2>
     <table>
         <thead>
             <tr>
